@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	fmt.Print("Resultado: ")
 	fmt.Println(soma(10, 10))
 }
 
